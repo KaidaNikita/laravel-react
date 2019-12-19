@@ -26,6 +26,9 @@
         "bootstrap": "^4.4.1",
         "classnames": "^2.2.6",
         "prop-types": "^15.7.2",
+        "react-images-upload": "^1.2.7",
+        "react-phone-input-2": "^2.11.0",
+        "react-recaptcha": "^2.3.10",
         "react-router-dom": "^5.1.2"
     }
 }
